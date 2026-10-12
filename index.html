@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="ja">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>えいご絵カード</title><link rel="stylesheet" href="style.css"><link rel="stylesheet" href="library.css"><link rel="stylesheet" href="learning.css"><link rel="stylesheet" href="speech.css"></head>
+<body>
+<main>
+ <header><span class="brand">✦ えいご絵カード</span><span class="tag">PICTURE WORDS</span></header>
+ <section class="intro"><p class="eyebrow">見て、考えて、覚えよう。</p><h1>英語でなんていう？</h1><p>絵や日本語の意味から英単語を入力して答え合わせ。間違えた単語は1・3・7・28日後に復習します。</p></section>
+ <p id="storage-warning" role="alert" hidden></p>
+ <div class="review-bar"><span id="review-summary" aria-live="polite"></span><button id="start-review" type="button">復習から始める</button></div>
+ <div class="category-bar"><label for="category">学習するカテゴリー</label><select id="category"></select></div>
+ <div class="toolbar"><label>カードを選ぶ <select id="select" aria-label="通し番号でカードを選ぶ"></select></label><button id="shuffle" class="quiet">↝ シャッフル</button></div>
+ <section class="card" aria-label="単語カード">
+  <div class="card-top"><span id="number"></span><span id="progress"></span></div>
+  <div class="picture-area"><img id="picture" alt="この絵の英単語を考えてください"><p id="japanese-prompt" lang="ja" hidden></p></div>
+  <p id="review-label" hidden></p>
+  <form id="answer-form" autocomplete="off"><label for="answer-input">英単語を入力</label><div class="input-row"><input id="answer-input" name="answer" type="text" placeholder="ここに英単語を入力" autocomplete="off" autocapitalize="none" spellcheck="false" required aria-describedby="input-help"><button id="check-answer" type="submit">答え合わせ</button></div><p id="input-help">大文字・小文字、全角・半角、前後の空白は区別しません。</p></form>
+  <div id="feedback" role="status" hidden></div>
+  <div id="answer" hidden aria-live="polite"><p id="word" lang="en"></p><div class="speech-controls"><button id="speak-word" type="button">単語を聞く</button><label for="speech-rate">速さ <select id="speech-rate"><option value="0.7">ゆっくり</option><option value="0.9" selected>ふつう</option><option value="1.1">はやく</option></select></label><button id="stop-speech" type="button">停止</button></div><div class="example-box"><p class="example-label">例文</p><p id="example-sentence" lang="en"></p><button id="speak-example" type="button">例文を聞く</button></div><p id="speech-status" role="status"></p><details id="photo-answer"><summary>写真の英単語を見る</summary><img id="word-photo" alt="写真から切り出した英単語"></details><p id="spelling-note" hidden></p></div>
+  <p id="hint">英単語を思い浮かべてみよう</p>
+  <button id="reveal" class="primary" aria-expanded="false">英単語を表示する</button>
+ </section>
+ <nav aria-label="カードを移動"><button id="previous">← 前のカード</button><span id="counter"></span><button id="next">次のカード →</button></nav>
+ <p class="keyboard">キーボードでも操作できます：← → で移動 / Space で答え</p>
+ <details id="history-panel" class="history-panel"><summary>学習履歴 <span id="history-count"></span></summary><p id="history-summary"></p><p class="history-help">出題・入力した答え・正誤をこのブラウザーに保存します。復習日は日本時間で、最後に間違えた日から数えます。</p><button id="export-history" type="button">全履歴をJSONで保存</button><div class="history-scroll"><table><thead><tr><th>出題日時</th><th>問題</th><th>入力した答え</th><th>結果</th></tr></thead><tbody id="history-rows"></tbody></table></div><p id="history-empty">まだ履歴がありません。</p><button id="more-history" type="button" hidden>さらに50件表示</button></details>
+ <footer><p id="total"></p><p class="credits">教材画像：Sergio Palao / <a href="https://arasaac.org" target="_blank" rel="noopener noreferrer">ARASAAC</a> · Government of Aragón · <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-SA（非商用・継承）</a><br>一部に写真・生成イラスト・オリジナルの図を使用しています。<a href="credits.html" target="_blank">画像の出典</a></p></footer>
+</main><script src="cards.js"></script><script src="learning.js"></script><script src="speech.js"></script><script src="app.js"></script>
+</body></html>

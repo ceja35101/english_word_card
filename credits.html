@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>画像の出典 | えいご絵カード</title><link rel="stylesheet" href="style.css"><style>main{line-height:1.9}h1{margin-top:30px}a{color:#4c7258}li{margin:6px 0}#sources{columns:2;font-size:12px}@media(max-width:480px){#sources{columns:1}}</style></head><body><main>
+<a href="index.html">← 単語帳に戻る</a><h1>画像の出典</h1>
+<p>教材ピクトグラムの作者は Sergio Palao、出典は <a href="https://arasaac.org/">ARASAAC</a>、権利者は Government of Aragón です。</p>
+<p>ARASAAC の画像と、それを組み合わせた図は <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>（作者・出典の表示、非商用、同じライセンスでの共有）で提供されています。<a href="https://arasaac.org/terms-of-use">利用条件</a></p>
+<p>そのほか、ユーザー提供の写真、AIで生成したイラスト、数・色・曜日などを表すオリジナルの図を使用しています。写真に写るイラストの権利は原権利者に帰属します。</p>
+<h2>各カードの教材画像</h2><ul id="sources"></ul>
+<script src="cards.js"></script><script>for(const card of window.WORD_CARDS){const ids=card.source?.ids||(card.source?.id?[card.source.id]:[]);if(!ids.length)continue;const item=document.createElement('li');item.append(`No. ${card.id}：`);for(const id of ids){const link=document.createElement('a');link.href=`https://arasaac.org/pictograms/en/${id}`;link.textContent=`図 ${id}`;link.target='_blank';link.rel='noopener noreferrer';item.append(link,' ')}document.getElementById('sources').append(item)}</script>
+</main></body></html>

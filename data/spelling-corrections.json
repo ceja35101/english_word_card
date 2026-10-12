@@ -1,0 +1,77 @@
+[
+  {
+    "id": 33,
+    "originalWord": "green papper",
+    "word": "green pepper"
+  },
+  {
+    "id": 62,
+    "originalWord": "fried chiken",
+    "word": "fried chicken"
+  },
+  {
+    "id": 103,
+    "originalWord": "moutain",
+    "word": "mountain"
+  },
+  {
+    "id": 148,
+    "originalWord": "chiken",
+    "word": "chicken"
+  },
+  {
+    "id": 161,
+    "originalWord": "insect[",
+    "word": "insect"
+  },
+  {
+    "id": 274,
+    "originalWord": "grasses",
+    "word": "glasses"
+  },
+  {
+    "id": 288,
+    "originalWord": "calender",
+    "word": "calendar"
+  },
+  {
+    "id": 317,
+    "originalWord": "shoolbag",
+    "word": "schoolbag"
+  },
+  {
+    "id": 356,
+    "originalWord": "arts and ctafts room",
+    "word": "arts and crafts room"
+  },
+  {
+    "id": 367,
+    "originalWord": "pencil sharpner",
+    "word": "pencil sharpener"
+  },
+  {
+    "id": 435,
+    "originalWord": "soccor player",
+    "word": "soccer player"
+  },
+  {
+    "id": 465,
+    "originalWord": "the United states of America",
+    "word": "the United States of America"
+  },
+  {
+    "id": 583,
+    "originalWord": "Autum/Fall",
+    "word": "Autumn/Fall"
+  },
+  {
+    "id": 588,
+    "originalWord": "Cristmas",
+    "word": "Christmas"
+  },
+  {
+    "id": 597,
+    "originalWord": "shool trip",
+    "word": "school trip"
+  }
+]

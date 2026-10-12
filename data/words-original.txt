@@ -1,0 +1,791 @@
+1	fruit
+2	strawberry
+3	orange
+4	kiwi fruit
+5	grapefruit
+6	nut
+7	cherry
+8	watermelon
+9	pear
+10	pineapple
+11	banana
+12	grapes
+13	melon
+14	peach
+15	apple
+16	lemon
+17	vegetable
+18	turnip
+19	pumpkin
+20	mushroom
+21	cabbage
+22	cucumber
+23	sweet potato
+24	potato
+25	zucchini
+26	celery
+27	onion
+28	corn
+29	tomato
+30	eggplant
+31	carrot
+32	radish
+33	green papper
+34	broccoli
+35	bean
+36	lettuce
+37	menu
+38	breakfast
+39	lunch
+40	dinner
+41	food
+42	rice
+43	jam
+44	sausage
+45	egg
+46	cheese
+47	butter
+48	ham
+49	bread
+50	yogurt
+51	rice ball
+52	omelet
+53	curry and rice
+54	salad
+55	sandwich
+56	soup
+57	steak
+58	spaghetti
+59	toast
+60	hamburger
+61	pizza
+62	fried chiken
+63	french fries
+64	hot dog
+65	fried rice
+66	noodle
+67	dessert
+68	snack
+69	ice cream
+70	candy
+71	shaved ice
+72	gum
+73	cookie
+74	cake
+75	chocolate
+76	donut
+77	pie
+78	parfait
+79	pancake
+80	pudding
+81	popcorn
+82	potato chips
+83	drink
+84	milk
+85	tea
+86	coffee
+87	juice
+88	soda pop
+89	water
+90	green tea
+91	nature
+92	sea
+93	river
+94	tree
+95	sky
+96	sun
+97	earth
+98	moon
+99	flower
+100	beach
+101	lake
+102	forest
+103	moutain
+104	weather
+105	rain
+106	wind
+107	rainbow
+108	snow
+109	rainy
+110	windy
+111	cloudy
+112	sunny
+113	snowy
+114	warm
+115	hot
+116	cold
+117	cool
+118	animal
+119	wild boar
+120	wolf
+121	kangaroo
+122	fox
+123	giraffe
+124	bear
+125	koala
+126	gorilla
+127	monkey
+128	zebra
+129	elephant
+130	tiger
+131	panda
+132	lion
+133	camel
+134	horse
+135	cow
+136	sheep
+137	pig
+138	dog
+139	rabbit
+140	cat
+141	mouse
+142	hamster
+143	snake
+144	bird
+145	duck
+146	crow
+147	sparrow
+148	chiken
+149	penguin
+150	dolphin
+151	shell
+152	shrimp
+153	frog
+154	turtle
+155	whale
+156	jellyfish
+157	fish
+158	octopus
+159	starfish
+160	alligator
+161	insect[
+162	ant
+163	snail
+164	beetle
+165	spider
+166	butterfly
+167	ladybug
+168	dragonfly
+169	grasshopper
+170	bee
+171	family
+172	father
+173	mother
+174	brother
+175	sister
+176	grandfather
+177	grandmother
+178	boy
+179	girl
+180	man
+181	woman
+182	friend
+183	king
+184	queen
+185	hero
+186	body
+187	head
+188	hair
+189	face
+190	eye
+191	nose
+192	ear
+193	mouth
+194	tooth
+195	teeth
+196	neck
+197	shoulder
+198	arm
+199	hand
+200	back
+201	leg
+202	knee
+203	foot
+204	feet
+205	toe
+206	toy
+207	net
+208	tag
+209	dice
+210	cards
+211	jump rope
+212	doll
+213	balloon
+214	yo-yo
+215	quiz
+216	dancing
+217	shopping
+218	camping
+219	fishing
+220	reading
+221	hiking
+222	cooking
+223	guitar
+224	drum
+225	trumpet
+226	violin
+227	piano
+228	flute
+229	recorder
+230	sport
+231	glove
+232	game
+233	golf
+234	soccer
+235	swimming
+236	skiing
+237	skating
+238	table tennis
+239	tennis
+240	dodge ball
+241	running
+242	basketball
+243	bat
+244	badminton
+245	volleyball
+246	ball
+247	baseball
+248	rugby
+249	racket
+250	track and field
+251	clothes
+252	jacket
+253	coat
+254	shirt
+255	skirt
+256	pants
+257	uniform
+258	sweater
+259	T-shirt
+260	shorts
+261	raincoat
+262	dress
+263	watch
+264	umbrella
+265	bag
+266	shoes
+267	socks
+268	gloves
+269	handkerchief
+270	boots
+271	hat
+272	cap
+273	scarf
+274	grasses
+275	house
+276	room
+277	living room
+278	bedroom
+279	kitchen
+280	dining room
+281	garden
+282	bathroom
+283	curtain
+284	mirror
+285	basket
+286	wall
+287	camera
+288	calender
+289	computer
+290	magnet
+291	picture
+292	newspaper
+293	sofa
+294	table
+295	TV
+296	light
+297	telephone
+298	door
+299	clock
+300	box
+301	bed
+302	window
+303	cup
+304	glass
+305	plate
+306	spoon
+307	knife
+308	pot
+309	chopsticks
+310	fork
+311	school
+312	elementary school
+313	junior high school
+314	high school
+315	alphabet
+316	chair
+317	shoolbag
+318	textbook
+319	blackboard
+320	dictionary
+321	homework
+322	map
+323	desk
+324	test
+325	name
+326	book
+327	letter
+328	subject
+329	English
+330	music
+331	home economics
+332	Japanese
+333	math
+334	social study
+335	calligraphy
+336	arts and crafts
+337	physical education
+338	moral education
+339	science
+340	history
+341	school lunch
+342	class
+343	cleaning time
+344	recess
+345	club
+346	team
+347	brass band
+348	entrance
+349	stairs
+350	music room
+351	classroom
+352	school principal's office
+353	playground
+354	computer room
+355	teacher's office
+356	arts and ctafts room
+357	gym
+358	restroom
+359	library
+360	swimming pool
+361	school nurse's office
+362	science room
+363	colored pencil
+364	ink
+365	paint
+366	pencil
+367	pencil sharpner
+368	paper
+369	crayon
+370	eraser
+371	compasses
+372	ruler
+373	tape
+374	notebook
+375	glue
+376	scissors
+377	pencil case
+378	pen
+379	stapler
+380	marker
+381	town
+382	place
+383	shop
+384	station
+385	gas station
+386	corner
+387	stadium
+388	airport
+389	block
+390	police station
+391	theater
+392	park
+393	convenience store
+394	fire station
+395	bookstore
+396	castle
+397	shrine
+398	aquarium
+399	supermarket
+400	flower shop
+401	department store
+402	temple
+403	zoo
+404	museum
+405	bus stop
+406	bakery
+407	hospital
+408	hotel
+409	amusement park
+410	movie theater
+411	post office
+412	restaurant
+413	unicycle
+414	wheelchair
+415	bicycle
+416	car
+417	taxi
+418	train
+419	bus
+420	plane
+421	ship
+422	rocket
+423	job
+424	dream
+425	doctor
+426	astronaut
+427	artist
+428	scientist
+429	student
+430	singer
+431	nurse
+432	flight attendant
+433	teacher
+434	police officer
+435	soccor player
+436	dentist
+437	veterinarian
+438	firefighter
+439	actor
+440	florist
+441	dancer
+442	zoo keeper
+443	farmer
+444	pilot
+445	bus driver
+446	baker
+447	pianist
+448	cartoonist
+449	baseball player
+450	cook
+451	on
+452	under
+453	by
+454	in
+455	here
+456	left
+457	right
+458	straight
+459	east
+460	west
+461	south
+462	north
+463	country
+464	world
+465	the United states of America
+466	the United Kingdom
+467	Italy
+468	India
+469	Egypt
+470	Australia
+471	Canada
+472	Korea
+473	Kenya
+474	Saudi Arabia
+475	Singapore
+476	Spain
+477	Thailand
+478	China
+479	Germany
+480	Japan
+481	Brazil
+482	France
+483	Mexico
+484	Russia
+485	number
+486	zero
+487	one
+488	two
+489	three
+490	four
+491	five
+492	six
+493	seven
+494	eight
+495	nine
+496	ten
+497	eleven 
+498	twelve
+499	thirteen
+500	fourteen
+501	fifteen
+502	sixteen
+503	seventeen
+504	eighteen
+505	nineteen
+506	twenty
+507	thirty
+508	forty
+509	fifty
+510	sixty
+511	seventy
+512	eighty
+513	ninety
+514	one hundred
+515	first
+516	second
+517	third
+518	fourth
+519	fifth
+520	sixth
+521	seventh
+522	eighth
+523	ninth
+524	tenth
+525	eleventh
+526	twelfth
+527	thirteenth
+528	twentieth
+529	thirtieth
+530	color
+531	blue
+532	red
+533	orange
+534	yellow
+535	black
+536	white
+537	brown
+538	gray
+539	pink
+540	light blue
+541	green
+542	purple
+543	shape
+544	circle
+545	triangle
+546	square
+547	rectangle
+548	heart
+549	diamond
+550	star
+551	time
+552	year
+553	weekend
+554	day
+555	morning
+556	afternoon
+557	evening
+558	night
+559	week
+560	Monday
+561	Tuesday
+562	Wednesday
+563	Thursday
+564	Friday
+565	Saturday
+566	Sunday
+567	month
+568	January
+569	February
+570	March
+571	April
+572	May
+573	June
+574	July
+575	August
+576	September
+577	October
+578	November
+579	December
+580	season
+581	spring
+582	Summer
+583	Autum/Fall
+584	Winter
+585	event
+586	New year's day
+587	halloween
+588	Cristmas
+589	New Year's Eve
+590	vacation
+591	birthday
+592	fireworks
+593	festival
+594	sports day
+595	field trip
+596	music festival
+597	shool trip
+598	swimming meet
+599	graduation ceremony
+600	entrance ceremony
+601	wash
+602	walk
+603	go
+604	sing
+605	finish
+606	teach
+607	dance
+608	swim
+609	write
+610	check
+611	come
+612	know
+613	jump
+614	ski
+615	like
+616	do
+617	play
+618	sit
+619	clean
+620	stand
+621	enjoy
+622	eat
+623	use
+624	make
+625	help
+626	get
+627	stop
+628	drink
+629	ride
+630	start
+631	run
+632	work
+633	speak
+634	need
+635	open
+636	study
+637	visit
+638	want
+639	turn
+640	see
+641	watch
+642	have
+643	try
+644	read
+645	cook
+646	practice
+647	get up
+648	go to school
+649	take a bath
+650	go to bed
+651	busy
+652	happy
+653	angry
+654	sad
+655	hungry
+656	fine
+657	great
+658	tough
+659	tired
+660	strong
+661	sleepy
+662	thirsty
+663	sick
+664	full
+665	cheerful
+666	funny
+667	cool
+668	active
+669	kind
+670	gentle
+671	brave
+672	friendly
+673	good
+674	bad
+675	new
+676	old
+677	big
+678	small
+679	hard
+680	soft
+681	long
+682	short
+683	tall
+684	high
+685	favorite
+686	beautiful
+687	well
+688	great
+689	many
+690	right
+691	fun
+692	traditional
+693	special
+694	popular
+695	fast
+696	best
+697	famous
+698	nice
+699	young
+700	exciting
+701	sweet
+702	salty
+703	sour
+704	spicy
+705	delicious
+706	bitter
+707	always
+708	usually
+709	sometimes
+710	never
+711	
+712	
+713	
+714	
+715	
+716	
+717	
+718	
+719	
+720	
+721	
+722	
+723	
+724	
+725	
+726	
+727	
+728	
+729	
+730	
+731	
+732	
+733	
+734	
+735	
+736	
+737	
+738	
+739	
+740	
+741	
+742	
+743	
+744	
+745	
+746	
+747	
+748	
+749	
+750	
+751	
+752	
+753	
+754	
+755	
+756	
+757	
+758	
+759	
+760	
+761	
+762	
+763	
+764	
+765	
+766	
+767	
+768	
+769	
+770	
+771	
+772	
+773	
+774	
+775	
+776	
+777	
+778	
+779	
+780	
+781	
+782	
+783	
+784	
+785	
+786	
+787	
+788	
+789	
+790	
+791	

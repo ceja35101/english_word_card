@@ -1,0 +1,6 @@
+node_modules/
+dist/
+review/
+app-preview.png
+drive-download-*/
+.publish-*.cjs
